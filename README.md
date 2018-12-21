@@ -1,6 +1,6 @@
 # ReactNative-Calculator
 This app was created based on the following youtube tutorial:
-[Click here to watch the complete playlist](https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h.)
+[Click here to watch the complete playlist](https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h)
 
 
 ## App preview
